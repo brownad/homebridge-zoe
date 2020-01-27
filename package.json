@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-zoe",
+  "version": "0.0.1",
+  "description": "Renault ZOE Plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "Renault ZOE",
+    "HomeBridge",
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=6",
+    "homebridge": ">=0.4.5"
+  },
+  "author": {
+    "name": "Adrian Brown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brownad/homebridge-zoe.git"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cookie": "^0.4.0",
+    "date-fns": "^2.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "set-cookie-parser": "^2.4.0"
+  }
+}
