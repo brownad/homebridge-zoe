@@ -1,4 +1,6 @@
 # homebridge-zoe
+*Renault updated the API however the APP is not available in the UK. So this is going to be broken until I can see the APP.  If anyone has sight of the API and can test, PR would be most welcome!*
+
 `homebridge-zoe` is a plugin for Homebridge.  Providing Renault Zoe owners with simple access and basic controls to your EV car options as presented by the public Renault site on:
 
 https://www.services.renault-ze.com/api
